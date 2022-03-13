@@ -1,0 +1,19 @@
+.winner {
+    color: green;
+}
+
+.loser {
+color: red;
+}
+
+.pl1sq {
+    /* background-color: blue; */
+    width: 10px;
+    height: 10px;
+}
+.pl2sq {
+    /* background-color: red; */
+    width: 10px;
+    height: 10px;
+    margin-top: 10px;
+}
